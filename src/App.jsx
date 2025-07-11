@@ -9,12 +9,14 @@ import PurchaseSection from "./components/Purchase/PurchaseSection";
 import ReviewsSection from "./components/Reviews/ReviewsSection";
 import ContactSection from "./components/Contact/ContactSection";
 import Footer from "./components/Footer/Footer";
+import StatsSection from "./components/Stats/StatsSection";
 
 const App = () => { 
   return(
   <>
     <Navbar />
     <HeroSection />
+    <StatsSection />
     <ClassesSection />
     <BMISection />
     <TrainersSection />

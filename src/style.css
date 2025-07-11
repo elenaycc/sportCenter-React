@@ -33,3 +33,13 @@
     max-width: 50%;
   }
 }
+.stats-section {
+  background-color: #eaf3fc;
+}
+
+.stat-box {
+  background-color: white;
+  border-radius: 8px;
+  height: 100%;
+}
+
