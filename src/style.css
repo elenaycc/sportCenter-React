@@ -1,0 +1,35 @@
+/* Custom styles from original project */
+.trainer-card:hover {
+  transform: scale(1.02);
+}
+.trainer-card:hover .trainer-info {
+  opacity: 1;
+}
+.card:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+.review-box {
+  background-color: #355592;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 576px) {
+  footer img {
+    width: 120px;
+  }
+  footer .text-start,
+  footer .text-white {
+    text-align: center !important;
+  }
+  footer .row.justify-content-center {
+    flex-wrap: nowrap !important;
+    gap: 1rem;
+  }
+  footer .row.justify-content-center > div {
+    flex: 1 1 50%;
+    max-width: 50%;
+  }
+}
