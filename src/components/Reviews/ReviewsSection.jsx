@@ -6,14 +6,14 @@ const reviews = [
   {
     name: "Diet Expert",
     title: "CFO",
-    image: "/images/client1.jpg",
+    image: "/src/public/images/client1.jpg",
     comment:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde adipisci, explicabo dolore ipsam fugit iste...",
   },
   {
     name: "Cardio Trainer",
     title: "CEO",
-    image: "/images/client2.jpg",
+    image: "/src/public/images/client2.jpg",
     comment:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, laborum. Alias architecto, velit, ipsa est animi...",
   },

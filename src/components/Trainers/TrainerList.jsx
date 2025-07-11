@@ -6,17 +6,17 @@ const trainers = [
   {
     name: "Emma Fit",
     title: "HIIT Instructor",
-    image: "/images/trainer1.jpg",
+    image: "/src/public/images/trainer1.jpg",
   },
   {
     name: "John Strong",
     title: "Power Lifting Coach",
-    image: "/images/trainer2.jpg",
+    image: "/src/public/images/trainer2.jpg",
   },
   {
     name: "Jane Doe",
     title: "Cardio Trainer",
-    image: "/images/trainer3.jpg",
+    image: "/src/public/images/trainer3.jpg",
   },
 ];
 
