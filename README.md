@@ -8,7 +8,7 @@ A fully responsive and interactive fitness club website, rebuilt using **React**
 
 ## 🚀 Live Demo
 
-🌐 [Live Site on Netlify](https://powerfull-react.netlify.app)
+🌐 [Live Site on Netlify](https://ornate-pegasus-854d9e.netlify.app/#join)
 
 ---
 
