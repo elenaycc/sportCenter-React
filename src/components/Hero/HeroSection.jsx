@@ -10,7 +10,7 @@ const HeroSection = () => {
       id="home"
       className="text-white hero-section d-flex align-items-center"
       style={{
-        backgroundImage: "url('/src/public/images/hero-man.jpg')",
+        backgroundImage: "url('/images/hero-man.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         minHeight: "90vh",
