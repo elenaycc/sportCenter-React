@@ -8,14 +8,14 @@ const reviews = [
     title: "CFO",
     image: "/src/public/images/client1.jpg",
     comment:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde adipisci, explicabo dolore ipsam fugit iste...",
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde adipisci, explicabo dolore ipsam fugit iste, rerum libero itaque deleniti nisi numquam!",
   },
   {
     name: "Cardio Trainer",
     title: "CEO",
     image: "/src/public/images/client2.jpg",
     comment:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, laborum. Alias architecto, velit, ipsa est animi...",
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit, laborum. Alias architecto, velit, ipsa est animi sequi Molestias et, id non aperiam laboriosam!",
   },
 ];
 

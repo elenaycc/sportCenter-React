@@ -10,7 +10,7 @@ const HeroSection = () => {
       id="home"
       className="text-white hero-section d-flex align-items-center"
       style={{
-        backgroundImage: "url('/images/hero-man.jpg')",
+        backgroundImage: "url('/src/public/images/hero-man.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         minHeight: "90vh",
@@ -20,7 +20,7 @@ const HeroSection = () => {
         <HeroBadge />
         <HeroTitle />
         <p className="hero-paragraph fw-semibold p-3">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus odit aut iste...
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus odit aut iste. Velit porro rerum, unde modi ipsam exercitationem laudantium illum. Id, laborum? Totam, dicta nisi. Voluptates, vero id. Perferendis.
         </p>
         <HeroButtons />
       </div>

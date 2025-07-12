@@ -1,7 +1,54 @@
-/* Custom styles from original project */
+/* === Navbar === */
+.navbar {
+  padding: 0.1rem 0;
+  transition: all 0.3s ease;
+}
+.navbar.scrolled {
+  background-color: #355592;
+ }
+ .nav-link:hover,
+ footer a:hover {
+  text-decoration: underline;
+}
+section[id] {
+  scroll-margin-top: 80px;
+}
+/* === Buttons === */
+.join-btn {
+  background-color: #f49c0f; /* koyu turuncu */
+}
+.join-btn:hover {
+  background-color: #a84300;
+}
+.hero-paragraph {
+  background-color: rgba(0, 0, 0, 0.80); /* darker */
+  color: white;
+  max-width: 720px;
+}
+.badge, .btn-signup {
+  background-color: #28457e;
+}
+.btn-signup:hover {
+  background-color: #063b8a;
+}
+.trainer-card {
+  border-color: #355592;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
 .trainer-card:hover {
   transform: scale(1.02);
 }
+.trainer-info {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(53, 85, 146, 0.9); 
+  padding: 15px 0;
+  opacity: 0; /* Hidden by default; becomes visible on hover */
+  transition: opacity 0.3s ease;
+}
+/* When the mouse hovers over the card, the .trainer-info section becomes visible */
 .trainer-card:hover .trainer-info {
   opacity: 1;
 }
@@ -14,6 +61,24 @@
   background-color: #355592;
   border-radius: 4px;
   font-size: 0.95rem;
+}
+h2 {
+  color:#355592; 
+}  
+.class-btn {
+  background-color: #355592;
+  color: white;
+  font-weight: 600;
+  border: none;
+  padding: 8px 20px;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+}
+.class-btn:hover {
+  opacity: 0.9;
+}
+.class-btn.active {
+  background-color: #f49c0f;
 }
 
 @media (max-width: 576px) {
@@ -42,4 +107,3 @@
   border-radius: 8px;
   height: 100%;
 }
-

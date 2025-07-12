@@ -5,7 +5,8 @@ const BMIForm = ({ height, weight, setHeight, setWeight, onCalculate }) => {
     <div className="col-md-6">
       <h2 className="fw-bold mb-4">BMI Calculator</h2>
       <p className="fw-semibold">
-        Contrary to popular belief, Lorem Ipsum is not simply random text...
+        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. <br /> <br />
+        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
       </p>
       <div className="d-flex gap-2 mb-3">
         <input

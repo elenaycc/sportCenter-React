@@ -1,7 +1,6 @@
 // ContactSection component
-
-import ContactInfo from "./ContactInfo";
-import ContactForm from "./ContactForm";
+import ContactForm from "./ContactInfo";
+import ContactInfo from "./ContactForm";
 import ContactMap from "./ContactMap";
 
 const ContactSection = () => {
@@ -22,10 +21,10 @@ const ContactSection = () => {
           Hampden–Sydney College.
         </p>
 
-        <div className="row align-items-start g-5">
-          <div className="col-md-6">
-            <ContactInfo />
+        <div className="row align-items-start g-4">
+          <div className="col-md-6">            
             <ContactForm />
+            <ContactInfo />
           </div>
           <div className="col-md-6">
             <ContactMap />
