@@ -9,7 +9,7 @@ const classData = {
       "Monday–Tuesday: 10:00am – 12:00pm",
       "Wednesday–Friday: 3:00pm – 6:00pm",
     ],
-    image: "/src/public/images/yoga.jpg",
+    image: "/images/yoga.jpg",
   },
   group: {
     title: "Why are your Group?",
@@ -20,7 +20,7 @@ const classData = {
       "Wednesday–Friday: 3:00pm – 6:00pm",
       "Saturday–Sunday: 8:00am – 10:00am",
     ],
-    image: "/src/public/images/group.webp",
+    image: "/images/group.webp",
   },
   solo: {
     title: "Why are your Solo?",
@@ -31,7 +31,7 @@ const classData = {
       "Saturday–Sunday: 8:00am – 10:00am",
       "Monday–Tuesday: 10:00am – 12:00pm",
     ],
-    image: "/src/public/images/solo.jpg",
+    image: "/images/solo.jpg",
   },
   stretching: {
     title: "Why are your Stretching?",
@@ -42,7 +42,7 @@ const classData = {
       "Monday–Tuesday: 10:00am – 12:00pm",
       "Wednesday–Friday: 3:00pm – 6:00pm",
     ],
-    image: "/src/public/images/stret.webp",
+    image: "/images/stret.webp",
   },
 };
 

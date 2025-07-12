@@ -1,6 +1,6 @@
 const Logo = () => (
   <div className="logo">
-    <img src="/src/public/images/logo.png" alt="POWERFULL Logo" />
+    <img src="/images/logo.png" alt="POWERFULL Logo" />
   </div>
 );
 

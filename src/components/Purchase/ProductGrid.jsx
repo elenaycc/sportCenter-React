@@ -5,25 +5,25 @@ import ProductCard from "./ProductCard";
 const products = [
   {
     name: "Kettlebell / 5kg",
-    image: "/src/public/images/purchase1.jpg",
+    image: "/images/purchase1.jpg",
     oldPrice: "89.99$",
     newPrice: "59.99$",
   },
   {
     name: "Treadmill",
-    image: "/src/public/images/purchase2.jpg",
+    image: "/images/purchase2.jpg",
     oldPrice: "899.99$",
     newPrice: "599.99$",
   },
   {
     name: "Adjustable Dumbbell",
-    image: "/src/public/images/purchase3.jpg",
+    image: "/images/purchase3.jpg",
     oldPrice: "89.99$",
     newPrice: "59.99$",
   },
   {
     name: "Kettlebell / 3kg",
-    image: "/src/public/images/purchase4.jpg",
+    image: "/images/purchase4.jpg",
     oldPrice: "49.99$",
     newPrice: "29.99$",
   },

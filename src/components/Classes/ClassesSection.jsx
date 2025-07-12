@@ -22,7 +22,7 @@ const ClassesSection = () => {
           Hampden–Sydney College.
         </p>
 
-        {/* 🔧 Bu satır çok önemli */}
+        {/* important */}
         <ClassTabs active={active} setActive={setActive} />
         <ClassContent active={active} />
       </div>
