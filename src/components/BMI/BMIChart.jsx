@@ -5,7 +5,7 @@ const BMIChart = ({ leftPos }) => {
     <div className="col-md-6 text-center">
       <h5 className="fw-semibold">Your BMI</h5>
       <div style={{ position: "relative", maxWidth: "500px", margin: "0 auto" }}>
-        <img src="/public/images/bmi-index.jpg" className="img-fluid" alt="BMI Chart" />
+        <img src="/images/bmi-index.jpg" className="img-fluid" alt="BMI Chart" />
         <div
           id="bmi-indicator"
           style={{
